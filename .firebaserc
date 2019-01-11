@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "portfolio-tony"
+    "default": "portfolio-tony",
+    "overview": "dbook-messageboard"
   }
 }
